@@ -12,7 +12,6 @@
   <a href="#"><img src="https://img.icons8.com/color/50/000000/amazon-web-services.png" alt="AWS" /></a>&nbsp;
   <a href="#"><img src="https://img.icons8.com/color/50/000000/docker.png" alt="Docker" /></a>&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" /></a>&nbsp;
-  
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" /></a>&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" /></a>&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" /></a>&nbsp;

@@ -16,8 +16,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=2296bd&color_dots=#f0f6fc,#9be9ff,#39d0ff,#2296bd,#0e6b93
-            dist/github-contribution-grid-snake.png?color_snake=2296bd&color_dots=#f0f6fc,#9be9ff,#39d0ff,#2296bd,#0e6b93
+            dist/github-contribution-grid-snake.svg?color_snake=00ffff&color_dots=#f0f0f0,#0e6b93,#1e81b0,#2296bd,#39d0ff
+            dist/github-contribution-grid-snake.png?color_snake=00ffff&color_dots=#f0f0f0,#0e6b93,#1e81b0,#2296bd,#39d0ff
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
@@ -26,8 +26,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=2296bd&color_dots=#0d1117,#9be9ff,#39d0ff,#2296bd,#0e6b93
-            dist/github-contribution-grid-snake-dark.png?color_snake=2296bd&color_dots=#0d1117,#9be9ff,#39d0ff,#2296bd,#0e6b93
+            dist/github-contribution-grid-snake-dark.svg?color_snake=00ffff&color_dots=#ffffff,#0e6b93,#1e81b0,#2296bd,#39d0ff
+            dist/github-contribution-grid-snake-dark.png?color_snake=00ffff&color_dots=#ffffff,#0e6b93,#1e81b0,#2296bd,#39d0ff
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
