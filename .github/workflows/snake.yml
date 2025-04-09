@@ -1,0 +1,40 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # runs every 12 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Generate Snake SVG (Light)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=2296bd&color_dots=#f0f6fc,#9be9ff,#39d0ff,#2296bd,#0e6b93
+            dist/github-contribution-grid-snake.png?color_snake=2296bd&color_dots=#f0f6fc,#9be9ff,#39d0ff,#2296bd,#0e6b93
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Generate Snake SVG (Dark)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?color_snake=2296bd&color_dots=#0d1117,#9be9ff,#39d0ff,#2296bd,#0e6b93
+            dist/github-contribution-grid-snake-dark.png?color_snake=2296bd&color_dots=#0d1117,#9be9ff,#39d0ff,#2296bd,#0e6b93
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
