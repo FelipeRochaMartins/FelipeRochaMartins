@@ -4,7 +4,7 @@
 
 [![Typing SVG 1](https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&letterSpacing=0.2rem&duration=1300&pause=10&color=2296BD&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Flipe+Rcha+Ma%7C;Felipe+Rocha+Martins)](https://git.io/typing-svg)
 <br>
-[![Typing SVG 2](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=18&letterSpacing=0.2rem&duration=1000&pause=1800&color=2296BD&center=true&vCenter=true&repeat=false&width=450&lines=+;.NET+%2B+Python+Developer)](https://git.io/typing-svg)
+[![Typing SVG 2](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=18&letterSpacing=0.2rem&duration=1000&pause=1800&color=FFFFFF&center=true&vCenter=true&repeat=false&width=450&lines=+;.NET+%2B+Python+Developer)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" /></a>&nbsp;
@@ -35,13 +35,13 @@
 
 <p align="center">
   <a href="mailto:dev.feliperochamartins@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/felipe-rocha-b8a8b8280/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A192F" alt="LinkedIn" />
   </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=FelipeRochaMartins&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-1234-white?style=for-the-badge&labelColor=0A192F&color=white&logo=github&logoColor=white" alt="Profile Views" />
 </p>
 
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0e6b93&height=120&section=footer)
