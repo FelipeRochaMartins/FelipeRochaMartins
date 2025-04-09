@@ -3,6 +3,7 @@
 ![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=0e6b93&height=120&section=header&text=&fontSize=90)
 
 [![Typing SVG 1](https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&letterSpacing=0.2rem&duration=1300&pause=10&color=2296BD&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Flipe+Rcha+Ma%7C;Felipe+Rocha+Martins)](https://git.io/typing-svg)
+<br>
 [![Typing SVG 2](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=18&letterSpacing=0.2rem&duration=1000&pause=1800&color=2296BD&center=true&vCenter=true&repeat=false&width=450&lines=+;.NET+%2B+Python+Developer)](https://git.io/typing-svg)
 
 <p align="center">
