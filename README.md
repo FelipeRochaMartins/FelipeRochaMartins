@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A192F" alt="LinkedIn" />
   </a>
   <br>
-  <img src="https://img.shields.io/badge/Profile%20Views-1234-white?style=for-the-badge&labelColor=0A192F&color=white&logo=github&logoColor=white" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=FelipeRochaMartins&style=for-the-badge&color=0A192F" alt="Profile Views" />
 </p>
 
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0e6b93&height=120&section=footer)
