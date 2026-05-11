@@ -6,20 +6,24 @@
 <br>
 [![Typing SVG 2](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=18&letterSpacing=0.2rem&duration=1000&pause=1800&color=FFFFFF&center=true&vCenter=true&repeat=false&width=450&lines=+;.NET+%2B+Python+Developer)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" /></a>&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" /></a>&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" alt=".NET" /></a>&nbsp;
-  <a href="#"><img src="https://img.icons8.com/color/50/000000/amazon-web-services.png" alt="AWS" /></a>&nbsp;
-  <a href="#"><img src="https://img.icons8.com/color/50/000000/docker.png" alt="Docker" /></a>&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" /></a>&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" /></a>&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" /></a>&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" /></a>&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" /></a>&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" /></a>&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" /></a>&nbsp;
-</p>
+<table align="center">
+  <tr>
+    <td><a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" /></a></td>
+    <td><a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" /></a></td>
+    <td><a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" alt=".NET" /></a></td>
+    <td><a href="#"><img src="https://img.icons8.com/color/50/000000/amazon-web-services.png" alt="AWS" /></a></td>
+    <td><a href="#"><img src="https://img.icons8.com/color/50/000000/docker.png" alt="Docker" /></a></td>
+    <td><a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" /></a></td>
+    <td><a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" /></a></td>
+    <td><a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" /></a></td>
+    <td><a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" /></a></td>
+    <td><a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" /></a></td>
+    <td><a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" /></a></td>
+  </tr>
+</table>
 
 <br>
 
